@@ -13,7 +13,7 @@
         <script src="js/libs/jquery/jquery.js"></script>
         <script>
             $(document).ready(Function(){
-                alert()
+                alert("me la pelas");
             });
         </script>
     </head>
